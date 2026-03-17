@@ -40,4 +40,3 @@ Interested in Machine Learning, Data Analytics, and Real-time AI solutions.
 
 ## 🌱 Currently Learning
 ![Advanced Deep Learning](https://img.shields.io/badge/Advanced%20Deep%20Learning-Progress-yellow?style=for-the-badge)
-![Real-time AI](https://img.shields.io/badge/Real--time%20AI-Systems-critical?style=for-the-badge)
